@@ -74,11 +74,11 @@ Carlisle, Rodney P., and Joan M. Zenzen. _Supplying the Nuclear Arsenal: America
 
 U.S. Congress, Office of Technology Assessment. [_Technologies Underlying Weapons of Mass Destruction_](http://www.foreignaffairs.com/articles/49954/eliot-a-cohen/technologies-underlying-weapons-of-mass-destruction). U.S. Government Printing Office, 1993, pp. 136-149 and 176-180.
 
-Albright, David. "North Korean Plutonium Production." _Science & Global Security_ 5 (1994): 63-87. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/250892076_North_Korean_Plutonium_Production))
+Albright, David. "North Korean Plutonium Production." _Science & Global Security_ 5 (1994): 63-87. ([PDF](https://www.researchgate.net/publication/250892076_North_Korean_Plutonium_Production))
 
 Albright, David, Frans Berkhout, and William Walker. _Plutonium and Highly Enriched Uranium 1996, World Inventories, Capabilities, and Policies_. Oxford, UK: Oxford University Press, 1997, pp. 271-279 and 461-471. ISBN: 9780198280095.
 
-International Panel on Fissile Materials. _Global Fissile Material Report 2008: Scope and Verification of a Fissile Material (Cutoff) Treaty_. 2008. pp. 7-21. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.2MB](http://www.fissilematerials.org/ipfm/site_down/gfmr08.pdf))
+International Panel on Fissile Materials. _Global Fissile Material Report 2008: Scope and Verification of a Fissile Material (Cutoff) Treaty_. 2008. pp. 7-21. ([PDF - 7.2MB](http://www.fissilematerials.org/ipfm/site_down/gfmr08.pdf))
 
 
 {{< tdclose >}}
@@ -198,11 +198,11 @@ Why Do Countries Pursue or Forego Nuclear Weapons?
 {{< tdopen >}}
 
 
-Sagan, Scott D. "Why Do States Build Nuclear Weapons: Three Models in Search of a Bomb." _International Security_ 21, no. 3 (Winter 1996/97): 54-86. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.6MB](http://faculty.maxwell.syr.edu/rdenever/ppa%20730-11/sagan.pdf))
+Sagan, Scott D. "Why Do States Build Nuclear Weapons: Three Models in Search of a Bomb." _International Security_ 21, no. 3 (Winter 1996/97): 54-86. ([PDF - 3.6MB](http://faculty.maxwell.syr.edu/rdenever/ppa%20730-11/sagan.pdf))
 
 Quester, George H. "The Epistemology of Nuclear Proliferation." _Journal of International Affairs_ 40 (Summer 1986): 177-188.
 
-Abraham, Itty. "The Ambivalence of Nuclear Histories." _Osiris_ 21 (2006): 49-65. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.jstor.org/stable/pdf/10.1086/507135.pdf?acceptTC=true&jpdConfirm=true))
+Abraham, Itty. "The Ambivalence of Nuclear Histories." _Osiris_ 21 (2006): 49-65. ([PDF](https://www.jstor.org/stable/pdf/10.1086/507135.pdf?acceptTC=true&jpdConfirm=true))
 
 Betts, Richard K. "[Paranoids, Pygmies, Pariahs and Nonproliferation Revisited](http://www.informaworld.com/smpp/content~db=all~content=a788881305)." _Security Studies_ 2, no. 3 (1993): 100-124.
 
@@ -226,7 +226,7 @@ Students were asked to read one reading from either the Australia or Egypt lists
 
 ### Australia
 
-Walsh, Jim. "Surprise Down Under: The Secret History of Australia's Nuclear Ambitions." _Nonproliferation Review_ 5, no. 1 (Fall 1997): 1-20. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://cns.miis.edu/npr/pdfs/walsh51.pdf))
+Walsh, Jim. "Surprise Down Under: The Secret History of Australia's Nuclear Ambitions." _Nonproliferation Review_ 5, no. 1 (Fall 1997): 1-20. ([PDF](http://cns.miis.edu/npr/pdfs/walsh51.pdf))
 
 Paul, T. V. _Power Versus Prudence: Why Nations Forgo Nuclear Weapons_. Montreal, QB: McGill-Queens University Press, 2000, pp. 78-84. ISBN: 9780773520875.
 
@@ -274,7 +274,7 @@ Walsh, Jim. "[Learning from Past Success: The NPT and the Future of Nonprolifera
 
 International Court of Justice. "[Legality of the Use by a State of Nuclear Weapons in Armed Conflict](http://prop1.org/2000/icj.htm)." Advisory Opinion handed down on July 8, 1996, the Hague.
 
-Lavoy, Peter. "Nuclear Proliferation Over the Next Decade: Cause Warning Signs, and Policy Responses." _Nonproliferation Review_ 13, no. 3 (November 2006): 434-454. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://cns.miis.edu/npr/pdfs/133lavoy.pdf))
+Lavoy, Peter. "Nuclear Proliferation Over the Next Decade: Cause Warning Signs, and Policy Responses." _Nonproliferation Review_ 13, no. 3 (November 2006): 434-454. ([PDF](http://cns.miis.edu/npr/pdfs/133lavoy.pdf))
 
 Solingen, Etel. "[The Political Economy of Nuclear Restraint](http://fas.org/irp/threat/950213-nuke-usia.htm)." _International Security_ 19, no. 2 (Spring 1994): 126-169.
 
@@ -320,13 +320,13 @@ Students were asked to read the articles listed under Iran or the ones listed un
 
 Walsh, Jim. "Iran's Nuclear Program: Motivations, Consequences, and Options." In _Terrorist Attacks and Nuclear Proliferation: Strategies for Overlapping Dangers_. By Demetrios Caraley. New York, NY: Academy of Political Science, 2007. ISBN: 9781884853067.
 
-Fitzpatrick, Mark. "Assessing Iran's Nuclear Programme." _Survival_ 48, no. 3 (Autumn 2006): 5-26. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.tandfonline.com/doi/full/10.1080/00396330600905494))
+Fitzpatrick, Mark. "Assessing Iran's Nuclear Programme." _Survival_ 48, no. 3 (Autumn 2006): 5-26. ([PDF](https://www.tandfonline.com/doi/full/10.1080/00396330600905494))
 
-National Intelligence Council. 2007 National Intelligence Estimate on Iran. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.dni.gov/files/documents/Newsroom/Press%20Releases/2007%20Press%20Releases/20071203_release.pdf))
+National Intelligence Council. 2007 National Intelligence Estimate on Iran. ([PDF](http://www.dni.gov/files/documents/Newsroom/Press%20Releases/2007%20Press%20Releases/20071203_release.pdf))
 
-Iran's 2003 proposal to the United States (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.antiwar.com/orig/porter.php?articleid=9040))
+Iran's 2003 proposal to the United States ([PDF](http://www.antiwar.com/orig/porter.php?articleid=9040))
 
-IAEA reports on Iran: November, 2003 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://graphics8.nytimes.com/packages/pdf/world/20071115IAEA-report.pdf)); May, 2007 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.iaea.org/Publications/Documents/Board/2007/gov2007-48.pdf)).
+IAEA reports on Iran: November, 2003 ([PDF](http://graphics8.nytimes.com/packages/pdf/world/20071115IAEA-report.pdf)); May, 2007 ([PDF](http://www.iaea.org/Publications/Documents/Board/2007/gov2007-48.pdf)).
 
 ### DPRK
 
@@ -336,7 +336,7 @@ Snyder, Scott. _Negotiating on the Edge: North Korean Negotiating Behavior_. Was
 
 Reiss, Mitchell. "Negotiating with North Korea." Conference paper presented at US-DPRK Next Steps Workshop, Nautilus Institute and Carnegie Endowment for International Peace, January 27, 2003, pp. 1-3.
 
-"Agreed Framework Between the United States of America and the Democratic People's Republic of Korea." Geneva, 1994. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.kedo.org/pdfs/AgreedFramework.pdf))
+"Agreed Framework Between the United States of America and the Democratic People's Republic of Korea." Geneva, 1994. ([PDF](http://www.kedo.org/pdfs/AgreedFramework.pdf))
 
 February 14th agreement
 
@@ -372,11 +372,11 @@ Nuclear Terrorism
 
 Bunn, Matthew. [_Securing the Bomb 2007_](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.192.693&rep=rep1&type=pdf). Cambridge, MA: Harvard University, 2007, pp. 1-40.
 
-Salama, Sammy, and Lydia Hansell. "Does Intent Equal Capability? Al-Qaeda and Weapons of Mass Destruction." _Nonproliferation Review_ 12, no. 3 (2005): 615-653. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://cns.miis.edu/npr/pdfs/123salama.pdf))
+Salama, Sammy, and Lydia Hansell. "Does Intent Equal Capability? Al-Qaeda and Weapons of Mass Destruction." _Nonproliferation Review_ 12, no. 3 (2005): 615-653. ([PDF](http://cns.miis.edu/npr/pdfs/123salama.pdf))
 
 Mueller, John. "The Atomic Terrorist: Assessing the Likelihood." Paper prepared for presentation at the Program on International Security Policy, University of Chicago, January 15, 2008, pp. 1-28. ([PDF](https://politicalscience.osu.edu/faculty/jmueller/APSACHGO.pdf))
 
-Harney, Robert, Gerald Brown, Matthew Carlyle, Eric Skroch, and Kevin Wood. "Anatomy of a Project to Produce a First Nuclear Weapon." _Science and Global Security_ 14, nos. 2-3 (May-December 2006): 163-182. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.tandfonline.com/doi/full/10.1080/08929880600993105))
+Harney, Robert, Gerald Brown, Matthew Carlyle, Eric Skroch, and Kevin Wood. "Anatomy of a Project to Produce a First Nuclear Weapon." _Science and Global Security_ 14, nos. 2-3 (May-December 2006): 163-182. ([PDF](https://www.tandfonline.com/doi/full/10.1080/08929880600993105))
 
 Bunn, Matthew, and Anthony Wier. "[Terrorist Nuclear Weapon Construction: How Difficult](http://ann.sagepub.com/cgi/reprint/607/1/133)?" _The Annals of the American Academy of Political and Social Science_ 607, no. 1 (September 2006): 133-149.
 
